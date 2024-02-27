@@ -88,7 +88,7 @@ function App() {
 					<button className='light-gray' id='percentage' onClick={() => buttonPress('percentage')}>
 						%
 					</button>
-					<button className='blue' id='divide' onClick={() => buttonPress('/')}>
+					<button className='pink' id='divide' onClick={() => buttonPress('/')}>
 						/
 					</button>
 					<button className='gray' id='seven' onClick={() => buttonPress('7')}>
@@ -100,7 +100,7 @@ function App() {
 					<button className='gray' id='nine' onClick={() => buttonPress('9')}>
 						9
 					</button>
-					<button className='blue' id='multiply' onClick={() => buttonPress('*')}>
+					<button className='pink' id='multiply' onClick={() => buttonPress('*')}>
 						x
 					</button>
 					<button className='gray' id='four' onClick={() => buttonPress('4')}>
@@ -112,7 +112,7 @@ function App() {
 					<button className='gray' id='six' onClick={() => buttonPress('6')}>
 						6
 					</button>
-					<button className='blue' id='subtract' onClick={() => buttonPress('-')}>
+					<button className='pink' id='subtract' onClick={() => buttonPress('-')}>
 						-
 					</button>
 					<button className='gray' id='one' onClick={() => buttonPress('1')}>
@@ -124,7 +124,7 @@ function App() {
 					<button className='gray' id='three' onClick={() => buttonPress('3')}>
 						3
 					</button>
-					<button className='blue' id='add' onClick={() => buttonPress('+')}>
+					<button className='pink' id='add' onClick={() => buttonPress('+')}>
 						+
 					</button>
 					<button className='gray' id='zero' onClick={() => buttonPress('0')}>
@@ -133,7 +133,7 @@ function App() {
 					<button className='gray' id='decimal' onClick={() => buttonPress('.')}>
 						.
 					</button>
-					<button className='blue' id='equals' onClick={() => buttonPress('=')}>
+					<button className='pink' id='equals' onClick={() => buttonPress('=')}>
 						=
 					</button>
 				</div>
